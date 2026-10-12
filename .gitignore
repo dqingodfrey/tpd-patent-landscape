@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# raw Lens exports: not published until data terms are checked
+data/raw/
